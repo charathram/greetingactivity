@@ -1,7 +1,8 @@
 {
   "name": "greetingactivity",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "flogo:activity",
+  "title": "Greet Person",
   "description": "A sample activity to greet a person",
   "ref": "github.com/charathram/greetingactivity",
   "author": "Charath Ranganathan <charathram@gmail.com>",
